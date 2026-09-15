@@ -1,14 +1,10 @@
-# Legacy Hub — site gratuito
+# Legacy Hub 2.0
+Site estático pronto para GitHub Pages.
 
-## Publicação rápida no GitHub Pages
-1. Crie uma conta no GitHub.
-2. Crie um repositório público chamado `legacyhub.github.io` (ou `SEUUSUARIO.github.io`).
-3. Envie `index.html`, `style.css` e `script.js`.
-4. Em Settings > Pages, habilite a publicação pela branch `main`.
-5. O endereço ficará parecido com `https://SEUUSUARIO.github.io/`.
+1. Envie `index.html`, `style.css` e `script.js` para a raiz do repositório.
+2. GitHub: Settings > Pages.
+3. Source: Deploy from a branch.
+4. Branch: `main`; Folder: `/ (root)`.
+5. Salve e aguarde a publicação.
 
-## Antes de publicar
-Abra `script.js` e substitua `5551999999999` pelo WhatsApp comercial, usando país + DDD + número, sem espaços ou símbolos.
-
-## Próxima etapa
-Depois de validar o site, conecte um domínio próprio e um formulário/CRM.
+Antes de divulgar: em `script.js`, troque `5551999999999` pelo WhatsApp comercial real, com país + DDD + número, sem símbolos.
