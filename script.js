@@ -1,6 +1,6 @@
 function sendWhatsApp(event){
 event.preventDefault();
-const phone="5551999999999";
+const phone="5551920067748";
 const nome=document.getElementById("nome").value.trim();
 const email=document.getElementById("email").value.trim();
 const empresa=document.getElementById("empresa").value.trim();
